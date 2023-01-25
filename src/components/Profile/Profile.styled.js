@@ -5,13 +5,13 @@ export const Wrapper = styled.div`
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: 40px;
   width: 280px;
   background-color: #fff;
-  margin: 30px auto;
   padding: 20px;
   padding-bottom: 0;
   border-radius: 5%;
+  margin-top: 30px;
 `;
 
 export const Description = styled.div`
@@ -19,7 +19,6 @@ export const Description = styled.div`
   flex-direction: column;
   align-items: center;
   gap: 5px;
-  margin-bottom: 30px;
 `;
 export const Avatar = styled.img`
   display: block;
