@@ -10,7 +10,7 @@ export const Wrapper = styled.div`
   background-color: #fff;
   padding: 20px;
   padding-bottom: 0;
-  border-radius: 5%;
+  border-radius: 10px;
   margin-top: 30px;
 `;
 
@@ -51,8 +51,8 @@ export const Stats = styled.ul`
   /* padding: 0; */
   background-color: rgba(128, 128, 128, 0.63);
   border: 1px solid rgba(128, 128, 128, 0.63);
-  border-bottom-left-radius: 5%;
-  border-bottom-right-radius: 5%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 `;
 
 export const Item = styled.li`
