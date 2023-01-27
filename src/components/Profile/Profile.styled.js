@@ -11,7 +11,6 @@ export const Wrapper = styled.div`
   padding: 20px;
   padding-bottom: 0;
   border-radius: 10px;
-  margin-top: 30px;
 `;
 
 export const Description = styled.div`
